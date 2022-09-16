@@ -1,0 +1,6 @@
+2021-07-05 15:07:16 ~ MPESAB2C.V2 | ke.co.count.sirib2c.services.GetTransactions | 92 | lambda$start$0() | saved to mpesa_out table  - {"id":1010,"txn_no":"PG59Y4PPAB","Amount":"1.00","phonenumber":"254727205709","ConvenienceFee":"1.00"}
+
+
+2021-07-05 15:11:55 ~ MPESAB2C.V2 | ke.co.count.sirib2c.services.GetTransactions | 92 | lambda$start$0() | saved to mpesa_out table  - {"id":1012,"txn_no":"PG53Y9YXU3","Amount":"11.00","phonenumber":"254727205709","ConvenienceFee":"1.00"}
+
+

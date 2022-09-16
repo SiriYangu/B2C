@@ -1,0 +1,28 @@
+2021-07-05 15:07:26 ~ MPESAB2C.V2 | ke.co.count.sirib2c.services.SendMoney | 85 | lambda$start$0() | Req to broker  - {
+    "InitiatorName": "SIRIYANGUB2CAPI",
+    "SecurityCredential": "OC2vR7NChnM4Wie9/HcWCvvRzZnFXyn6pQd4SV5TBrcW3B2pnpx5O51l9I4xC2k/yEiWh3fJOjbxjfHXAseVKPAPjscGps5tvWM29OTYMKoY5nKL9lZDYSkT5m/o7cZT12VdOnT4Oo4SogixvH00Dk65mLcKedFaLf27G2Y1oeqX8DQc2PdComlfs+x6A0JNqh0XY+gkLuO1rLlCzKOG2ZD1/PGnEHnRIsR0dVk6LafTzKftzz60ne4NFImMvCTXCFJbzD+zEca/kk4hV5VlqFhwts+YQ777zFGPsO/vMBESXeDyxPWuPxtkeoISVTe8cWWixpF2iWrN+5OS+tubRA==",
+    "CommandID": "BusinessPayment",
+    "Amount": "0.00",
+    "PartyA": "3028309",
+    "PartyB": "254727205709",
+    "Remarks": "B2C transaction",
+    "QueueTimeOutURL": "http://70eefbe6eca2.ngrok.io/b2c_callback",
+    "ResultURL": "http://70eefbe6eca2.ngrok.io/b2c_callback",
+    "Occasion": "B2C transaction"
+}
+
+
+2021-07-05 15:12:04 ~ MPESAB2C.V2 | ke.co.count.sirib2c.services.SendMoney | 84 | lambda$start$0() | Req to broker  - {
+    "InitiatorName": "SIRIYANGUB2CAPI",
+    "SecurityCredential": "OC2vR7NChnM4Wie9/HcWCvvRzZnFXyn6pQd4SV5TBrcW3B2pnpx5O51l9I4xC2k/yEiWh3fJOjbxjfHXAseVKPAPjscGps5tvWM29OTYMKoY5nKL9lZDYSkT5m/o7cZT12VdOnT4Oo4SogixvH00Dk65mLcKedFaLf27G2Y1oeqX8DQc2PdComlfs+x6A0JNqh0XY+gkLuO1rLlCzKOG2ZD1/PGnEHnRIsR0dVk6LafTzKftzz60ne4NFImMvCTXCFJbzD+zEca/kk4hV5VlqFhwts+YQ777zFGPsO/vMBESXeDyxPWuPxtkeoISVTe8cWWixpF2iWrN+5OS+tubRA==",
+    "CommandID": "BusinessPayment",
+    "Amount": "10.00",
+    "PartyA": "3028309",
+    "PartyB": "254727205709",
+    "Remarks": "B2C transaction",
+    "QueueTimeOutURL": "http://70eefbe6eca2.ngrok.io/b2c_callback",
+    "ResultURL": "http://70eefbe6eca2.ngrok.io/b2c_callback",
+    "Occasion": "B2C transaction"
+}
+
+

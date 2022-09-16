@@ -1,0 +1,6 @@
+2021-07-05 15:07:26 ~ MPESAB2C.V2 | ke.co.count.sirib2c.services.SendMoney | 105 | lambda$start$0() | Acknowledgement from saf  - {"requestId":"33894-22833802-1","errorCode":"400.002.02","errorMessage":"Bad Request - Invalid amount","mpesaId":1}
+
+
+2021-07-05 15:12:05 ~ MPESAB2C.V2 | ke.co.count.sirib2c.services.SendMoney | 104 | lambda$start$0() | Acknowledgement from saf  - {"ConversationID":"AG_20210705_000055922379fd8f58a1","OriginatorConversationID":"7447-37015452-1","ResponseCode":"0","ResponseDescription":"Accept the service request successfully.","mpesaId":2}
+
+
